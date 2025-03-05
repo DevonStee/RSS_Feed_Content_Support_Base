@@ -2,11 +2,6 @@
 
 This repository contains assets and support files related to RSS feeds. It includes icons, metadata files, and other resources to enhance RSS feed presentations.
 
-## 📂 Directory Structure
-
-/RSS_Content_Support_Base │── assets/ # Stores RSS-related icons, images, and metadata │── templates/ # Stores predefined RSS feed templates (if applicable) │── config/ # Stores configuration files for RSS customization │── README.md # Project documentation
-
-
 ## 🔧 Usage
 
 ### 1️⃣ **Using an `.ico` file for RSS Feeds**
